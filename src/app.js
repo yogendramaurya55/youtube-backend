@@ -19,7 +19,7 @@ app.get('/', (req, res) => res.send('Server is OK'));
 
 
 
-//routes 
+//routes  
 
 import userRouter from "./routes/user.routes.js"
 
